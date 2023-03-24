@@ -44,4 +44,4 @@ running on your local machine for development and testing purposes.
 
 ## 🎥 Project video
 
-Uploading bandicam 2023-03-24 02-58-10-189.mp4…
+https://user-images.githubusercontent.com/100048051/227392321-868a5b9e-e76e-4414-a603-13f8217496ef.mp4
