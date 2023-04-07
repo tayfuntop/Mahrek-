@@ -18,13 +18,13 @@
 
 Clone this repository on your local machine.
 <br>
-git clone https://github.com/tayfuntop/Mahrek-.git
+git clone https://github.com/tayfuntop/Tree-System.git
 
 ## Use
 
 To use it after cloning the project:
 ```
-cd Mahrek-
+cd Tree-System
 
 code .
 open terminal
